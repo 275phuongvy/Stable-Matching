@@ -1,5 +1,7 @@
 # Stable Marriage Matching (Backtracking)
 
+Author: Vy Phuong Tran
+
 The program is to employ a backtracking design which involves making a series of decisions/choices and making a forward move after each such decision and then eventually returning to each previous point where a decision was previously made to cancel the decision/choice in making a different decision/choice to move forward all over again in a different direction in either finding all solutions or finding just one solution, whichever is the case.
 
 PROBELM:
